@@ -1,5 +1,32 @@
 @@startmindmap pojecia
-+ sklep zoologiczny
+!theme _none_
+<style>
+mindmapDiagram {
+    '/colors https://colordesigner.io /'
+  .green {
+    BackgroundColor lightgreen
+  }
+  .rose {
+    BackgroundColor LightPink
+  }
+  .blue {
+    BackgroundColor lightblue
+  }
+  .yellow {
+    BackgroundColor LightYellow
+  }
+
+.slateGrey {
+    BackgroundColor LightSlateGray
+}
+.violet {
+    BackgroundColor #b385d0
+}
+}
+</style>
+
++ Sklep Zoologiczny
+
 ++ Zwierzęta
 +++ Żywność
 ++++ Karmy
@@ -7,32 +34,45 @@
 +++++ Karma sucha
 +++++ Marki
 +++++ Smakołyki
-++ Psy
-+++ Akcesoria
-++++ Kagańce
-++++ Smycze
-++++ miski
-++++ Legowiska
-+++++ miski na wode
-+++++ miski do jedzenia
-+++ Trening
-++++ smycze
-++++ maty
-++++ gwizdki
-++++ obroże
-++++ dzwiekowe akcesoria
-+++ Zabawki
-+++ Szarpaki
-++++ Gryzaki
-+++++ drewniane
-+++++ Gumowe
-++ Koty
-+++ Zabawki
-++++ elektroniczne
-++++ Wędki
-++++ Piłki
-+++ Akcesoria
-++++ Drapaki
+
++++ Psy <<blue>>
+++++ Akcesoria <<green>>
++++++ Kagańce <<green>>
++++++ Smycze <<green>>
++++++ Miski <<green>>
++++++ Legowiska <<green>>
+++++++_ Miski na wode <<green>>
+++++++_ Miski do jedzenia <<green>>
+
+++++ Trening  <<yellow>>
++++++ Smycze <<yellow>>
++++++ Maty <<yellow>>
++++++ Gwizdki <<yellow>>
++++++ Obroże <<yellow>>
++++++ Dzwiekowe akcesoria <<yellow>>
+
+++++ Zabawki <<rose>>
++++++ Piłki <<rose>>
++++++ Kongi <<rose>>
++++++ pluszowe <<rose>>
++++++ Gryzaki <<rose>>
+++++++ Drewniane <<rose>>
+++++++ Gumowe <<rose>>
+
+++++ Szarpaki <<slateGrey>>
++++++ Gumowe <<slateGrey>>
++++++ Materiałowe <<slateGrey>>
++++++ skórowe <<slateGrey>>
++++++ mieszane <<slateGrey>>
+
++++ Koty
+++++ Zabawki
++++++ Elektroniczne <<violet>>
++++++ Wędki <<violet>>
++++++ Piłki <<violet>>
+++++ Akcesoria
++++++ Drapaki
+-- Moje Konto
 -- Kontakt
 -- Pomoc
 --- Reklamacja
