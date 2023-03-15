@@ -72,8 +72,51 @@ mindmapDiagram {
 +++++ Piłki <<violet>>
 ++++ Akcesoria
 +++++ Drapaki
+
++++ Książki
+
+-- Promocje
+
 -- Moje Konto
+--- Zaloguj się
+--- Zarejestruj się
+--- Koszyk
+--- Zamówienia
+--- Lista życzeń
+
 -- Kontakt
+--- Znajdz Sklep
+--- Formularz kontaktowy
+--- Telefoniczny
+--- Mailowy
+
+
 -- Pomoc
---- Reklamacja
+--- Dostawa
+--- Wymiana i zwroty
+--- Płatności
+--- Zamówienia online
+--- Pozostałe
+
+-- Inne
+--- Regulamin
+--- Polityka prywatności
+--- Polityka cookies 
+--- Newsletter
+--- Poradnik
+---- Pies
+----- Akcesoria
+----- Porady
+----- Rasy
+----- Zdrowie
+----- Żywienie
+---- Kot
+----- Akcesoria
+----- Porady
+----- Rasy
+----- Zdrowie
+----- Żywienie
+---- Pozostałe zwierzęta
+--- O nas
+
 @@endmindmap
