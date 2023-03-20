@@ -15,19 +15,39 @@ mindmapDiagram {
   .yellow {
     BackgroundColor LightYellow
   }
+  .slateGrey {
+      BackgroundColor LightSlateGray
+  }
+  .violet {
+      BackgroundColor #b385d0
+  }
+  .oliveGreen{
+    BackgroundColor #afb83b
+  }
+  .skyBlue{
+    BackgroundColor #14aaf5
+  }
+  .mintGreen{
+    BackgroundColor #6accbc
+  }
+  .red {
+    BackgroundColor #FF3D3D
+  }
+  .bananaYellow {
+    BackgroundColor #E6E600
+  }
+  .brown {
+    BackgroundColor #B87D4B
+  }
 
-.slateGrey {
-    BackgroundColor LightSlateGray
-}
-.violet {
-    BackgroundColor #b385d0
-}
 }
 </style>
 
 + Sklep Zoologiczny
 
-++ Zwierzęta
+++ Promocje <<red>>
+
+++ Zwierzęta <<brown>>
 +++ Żywność
 ++++ Karmy
 +++++ Karma Mokra
@@ -62,7 +82,7 @@ mindmapDiagram {
 ++++ Szarpaki <<slateGrey>>
 +++++ Gumowe <<slateGrey>>
 +++++ Materiałowe <<slateGrey>>
-+++++ skórowe <<slateGrey>>
++++++ skórzane <<slateGrey>>
 +++++ mieszane <<slateGrey>>
 
 +++ Koty
@@ -73,50 +93,46 @@ mindmapDiagram {
 ++++ Akcesoria
 +++++ Drapaki
 
-+++ Książki
 
--- Promocje
 
--- Moje Konto
---- Zaloguj się
---- Zarejestruj się
+
+-- Moje Konto <<skyBlue>>
 --- Koszyk
 --- Zamówienia
 --- Lista życzeń
 
--- Kontakt
+-- Kontakt <<mintGreen>>
 --- Znajdz Sklep
 --- Formularz kontaktowy
 --- Telefoniczny
 --- Mailowy
 
-
--- Pomoc
+-- Pomoc <<mintGreen>>
 --- Dostawa
 --- Wymiana i zwroty
 --- Płatności
 --- Zamówienia online
---- Pozostałe
 
--- Inne
+-- Polityka <<mintGreen>>
 --- Regulamin
 --- Polityka prywatności
---- Polityka cookies 
---- Newsletter
---- Poradnik
----- Pies
------ Akcesoria
------ Porady
------ Rasy
------ Zdrowie
------ Żywienie
----- Kot
------ Akcesoria
------ Porady
------ Rasy
------ Zdrowie
------ Żywienie
----- Pozostałe zwierzęta
---- O nas
+--- Polityka cookies
+
+-- Newsletter <<mintGreen>>
+
+-- 0 nas <<mintGreen>>
+--- Działalność
+--- Zespół
+--- Sklepy stacjonarne 
+
+
+-- Poradnik <<oliveGreen>>
+--- Akcesoria
+--- Porady
+--- Rasy
+--- Zdrowie
+--- Żywienie
+
+
 
 @@endmindmap
