@@ -56,6 +56,7 @@ mindmapDiagram {
 +++++ Smakołyki
 
 +++ Psy <<blue>>
+
 ++++ Akcesoria <<green>>
 +++++ Kagańce <<green>>
 +++++ Smycze <<green>>
@@ -85,14 +86,58 @@ mindmapDiagram {
 +++++ skórzane <<slateGrey>>
 +++++ mieszane <<slateGrey>>
 
+++++ Zdrowie
++++++ Pęsety na kleszcze
++++++ Preparaty na pchły
++++++ Obroże na kleszcze
++++++ Szampony
++++++ Grzebienie
++++++ Szczotki do zębów
+
 +++ Koty
-++++ Zabawki
+
+++++ Zabawki <<violet>>
 +++++ Elektroniczne <<violet>>
 +++++ Wędki <<violet>>
 +++++ Piłki <<violet>>
+
 ++++ Akcesoria
 +++++ Drapaki
++++++ Legowiska
++++++ Kuwety
++++++ Transportery
++++++ Miski
++++++ Obroże
++++++ Szelki
 
+++++ Zdrowie
++++++ Pęsety na kleszcze
++++++ Obroże na kleszcze
++++++ Preparaty na pchły
++++++ Szampony
++++++ Grzebienie
++++++ Szczotki do zębów
+
++++ Małe ssaki
+
+++++ Karmy
++++++ Karma dla chomika
++++++ Karma dla myszy
++++++ Karma dla królika
++++++ Karma dla szczura
++++++ Karma dla fretki
++++++ Karma dla świnki morskiej
+
+++++ Akcesoria
++++++ Klatki
++++++ Miski
++++++ Poidełka
++++++ Transportery
+
+++++ Zdrowie
++++++ Witaminy dla małych ssaków
++++++ Podkłady
++++++ Pielęgnacja małych ssaków
 
 
 
