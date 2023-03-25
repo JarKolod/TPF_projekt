@@ -2,10 +2,8 @@
 
 * Sklep zoologiczny
 
-** Produkty
-
-+++ Psy
-****:Karma
+++ Psy
+***:Karma
 \t- Karma mokra
 \t- Karma sucha
 \t- Karmy weterynaryjne
@@ -14,25 +12,24 @@
 \t- Smakołyki
 \t- Pojemniki na karmę;
 
-****:Kosmetyki i pielęgnacja
+***:Kosmetyki i pielęgnacja
 \t- Nożyczki i obcinacze
 \t- Szczotki i grzebienie
 \t- Odstraszacze
 \t- Perfumy
 \t- Szampony, odżywki;
 
-****:Czystość
+***:Czystość
 \t- Neutralizatory zapachów
 \t- Nauka czystości;
 
-
-****:Zabawki
+***:Zabawki
 \t- Piłki
 \t- Gryzaki
 \t- Frisbee
 \t- Pozostałe;
 
-****:Zdrowie
+***:Zdrowie
 \t- Higiena jamy ustnej
 \t- Pielęgnacja oczu i uszu
 \t- Witaminy
@@ -41,7 +38,7 @@
 \t- Produkty na łapki
 \t- Na odrobaczanie;
 
-****:Akcesoria
+***:Akcesoria
 \t- Miski, stojaki i dozowniki
 \t- Legowiska
 \t- Transportery i torby
@@ -50,8 +47,8 @@
 \t- Budy
 \t- Tabliczki ostrzegawcze;
 
---- Koty
-****:Karma
+-- Koty
+***:Karma
 \t- Karma mokra
 \t- Karma sucha
 \t- Karmy weterynaryjne
@@ -59,25 +56,25 @@
 \t\t (Bengalski, Maine coon, Norweski...)
 \t- Smakołyki;
 
-****:Kosmetyki i pielęgnacja
+***:Kosmetyki i pielęgnacja
 \t- Nożyczki i obcinacze
 \t- Szczotki i grzebienie
 \t- Perfumy
 \t- Szampony, odżywki;
 
-****:Czystość
+***:Czystość
 \t- Żwirki
 \t- Kuwety i łopatki
 \t- Neutralizatory zapachów
 \t- Nauka czystości;
 
-****:Zabawki
+***:Zabawki
 \t- Wędki
 \t- Piłki
 \t- Myszki
 \t- Pozostałe;
 
-****:Zdrowie
+***:Zdrowie
 \t- Higiena jamy ustnej
 \t- Pielęgnacja oczu i uszu
 \t- Witaminy
@@ -86,7 +83,7 @@
 \t- Produkty na łapki
 \t- Na odrobaczanie;
 
-****:Akcesoria
+***:Akcesoria
 \t- Miski, stojaki i dozowniki
 \t- Legowiska
 \t- Transportery i torby
@@ -98,9 +95,30 @@
 
 
 
---- Gryzonie
-+++ Akwarysytka
-*** Promocje
+++ Małe ssaki
+
+***:Karmy
+\t- Karma dla chomika
+\t- Karma dla myszy
+\t- Karma dla królika
+\t- Karma dla szczura
+\t- Karma dla fretki
+\t- Karma dla świnki morskiej;
+
+***:Akcesoria
+\t- Klatki
+\t- Miski
+\t- Poidełka
+\t- Transportery
+\t- Kołowrotki
+\t- Domki dla gryzoni;
+
+***:Zdrowie
+\t- Witaminy dla małych ssaków
+\t- Podkłady
+\t- Pielęgnacja małych ssaków;
+
+-- Promocje
 
 ** Moje Konto
 *** Zaloguj się/ Zarejestruj się
