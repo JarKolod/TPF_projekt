@@ -3,14 +3,56 @@
 <style>
 mindmapDiagram {
     '/colors https://colordesigner.io /'
-  .green {
-    BackgroundColor lightgreen
+  .green1 {
+    BackgroundColor #3ba040
+  }
+  .green2 {
+    BackgroundColor #4ebe54
+  }
+  .green3 {
+    BackgroundColor #71cb76
+  }
+  .green4 {
+    BackgroundColor #c1e27e
+  }
+  .green5 {
+    BackgroundColor #b8e5ba
   }
   .rose {
     BackgroundColor LightPink
   }
+  .blue1{
+    BackgroundColor #328de7
+  }
+  .blue2{
+    BackgroundColor #5ba4eb
+  }
+  .blue3{
+    BackgroundColor #84bbf0
+  }    
+  .blue4{
+    BackgroundColor #add1f5
+  } 
+  .blue5{
+    BackgroundColor #aae1fe
+  } 
   .blue {
     BackgroundColor lightblue
+  }
+  .purple1 {
+    BackgroundColor #a269c6
+  }
+  .purple2 {
+    BackgroundColor #9524e0
+  }
+  .purple3 {
+    BackgroundColor #aa50e6
+  }
+  .purple4 {
+    BackgroundColor #bf7cec
+  }
+  .purple5 {
+    BackgroundColor #ead3f9
   }
   .yellow {
     BackgroundColor LightYellow
@@ -47,7 +89,7 @@ mindmapDiagram {
 
 ++ Promocje <<red>>
 
-++ Zwierzęta <<brown>>
+++ **"General"**
 +++ Żywność
 ++++ Karmy
 +++++ Karma Mokra
@@ -55,91 +97,91 @@ mindmapDiagram {
 +++++ Marki
 +++++ Smakołyki
 
-+++ Psy <<blue>>
+++ Psy <<blue1>>
 
-++++ Akcesoria <<green>>
-+++++ Kagańce <<green>>
-+++++ Smycze <<green>>
-+++++ Miski <<green>>
-+++++ Legowiska <<green>>
-++++++_ Miski na wode <<green>>
-++++++_ Miski do jedzenia <<green>>
++++ Akcesoria <<blue3>>
+++++ Kagańce <<blue3>>
+++++ Smycze <<blue3>>
+++++ Miski <<blue3>>
+++++ Legowiska <<blue3>>
++++++_ Miski na wode <<blue3>>
++++++_ Miski do jedzenia <<blue3>>
 
-++++ Trening  <<yellow>>
-+++++ Smycze <<yellow>>
-+++++ Maty <<yellow>>
-+++++ Gwizdki <<yellow>>
-+++++ Obroże <<yellow>>
-+++++ Dzwiekowe akcesoria <<yellow>>
++++ Trening  <<blue4>>
+++++ Smycze <<blue4>>
+++++ Maty <<blue4>>
+++++ Gwizdki <<blue4>>
+++++ Obroże <<blue4>>
+++++ Dzwiekowe akcesoria <<blue4>>
 
-++++ Zabawki <<rose>>
-+++++ Piłki <<rose>>
-+++++ Kongi <<rose>>
-+++++ pluszowe <<rose>>
-+++++ Gryzaki <<rose>>
-++++++ Drewniane <<rose>>
-++++++ Gumowe <<rose>>
++++ Zabawki <<blue5>>
+++++ Piłki <<blue5>>
+++++ Kongi <<blue5>>
+++++ pluszowe <<blue5>>
+++++ Gryzaki <<blue5>>
++++++ Drewniane <<blue5>>
++++++ Gumowe <<blue5>>
 
-++++ Szarpaki <<slateGrey>>
-+++++ Gumowe <<slateGrey>>
-+++++ Materiałowe <<slateGrey>>
-+++++ skórzane <<slateGrey>>
-+++++ mieszane <<slateGrey>>
++++ Szarpaki <<blue3>>
+++++ Gumowe <<blue3>>
+++++ Materiałowe <<blue3>>
+++++ skórzane <<blue3>>
+++++ mieszane <<blue3>>
++++ Zdrowie <<blue4>>
 
-++++ Zdrowie
-+++++ Pęsety na kleszcze
-+++++ Preparaty na pchły
-+++++ Obroże na kleszcze
-+++++ Szampony
-+++++ Grzebienie
-+++++ Szczotki do zębów
+++++ Pęsety na kleszcze <<blue4>>
+++++ Preparaty na pchły <<blue4>>
+++++ Obroże na kleszcze <<blue4>>
+++++ Szampony <<blue4>>
+++++ Grzebienie <<blue4>>
+++++ Szczotki do zębów <<blue4>>
 
-+++ Koty
+++ Koty <<green1>>
 
-++++ Zabawki <<violet>>
-+++++ Elektroniczne <<violet>>
-+++++ Wędki <<violet>>
-+++++ Piłki <<violet>>
++++ Zabawki <<green2>>
+++++ Elektroniczne <<green2>>
+++++ Wędki <<green2>>
+++++ Piłki <<green2>>
 
-++++ Akcesoria
-+++++ Drapaki
-+++++ Legowiska
-+++++ Kuwety
-+++++ Transportery
-+++++ Miski
-+++++ Obroże
-+++++ Szelki
++++ Akcesoria <<green3>>
+++++ Drapaki <<green3>>
+++++ Legowiska <<green3>>
+++++ Kuwety <<green3>>
+++++ Transportery <<green3>>
+++++ Miski <<green3>>
+++++ Obroże <<green3>>
+++++ Szelki <<green3>>
 
-++++ Zdrowie
-+++++ Pęsety na kleszcze
-+++++ Obroże na kleszcze
-+++++ Preparaty na pchły
-+++++ Szampony
-+++++ Grzebienie
-+++++ Szczotki do zębów
++++ Zdrowie <<green4>>
+++++ Pęsety na kleszcze <<green4>>
+++++ Obroże na kleszcze <<green4>>
+++++ Preparaty na pchły <<green4>>
+++++ Szampony <<green4>>
+++++ Grzebienie <<green4>>
+++++ Szczotki do zębów <<green4>>
 
-+++ Małe ssaki
+++ **Małe ssaki** <<purple1>>
 
-++++ Karmy
-+++++ Karma dla chomika
-+++++ Karma dla myszy
-+++++ Karma dla królika
-+++++ Karma dla szczura
-+++++ Karma dla fretki
-+++++ Karma dla świnki morskiej
++++ Karmy <<purple3>>
+++++ Karma dla chomika <<purple3>>
+++++ Karma dla myszy <<purple3>>
+++++ Karma dla królika <<purple3>>
+++++ Karma dla szczura <<purple3>>
+++++ Karma dla fretki <<purple3>>
+++++ Karma dla świnki morskiej <<purple3>>
 
-++++ Akcesoria
-+++++ Klatki
-+++++ Miski
-+++++ Poidełka
-+++++ Transportery
-+++++ Kołowrotki
-+++++ Domki dla gryzoni
++++ Akcesoria <<purple4>>
+++++ Klatki <<purple4>>
+++++ Miski <<purple4>>
+++++ Poidełka <<purple4>>
+++++ Transportery <<purple4>>
+++++ Kołowrotki <<purple4>>
+++++ Domki dla gryzoni <<purple4>>
 
-++++ Zdrowie
-+++++ Witaminy dla małych ssaków
-+++++ Podkłady
-+++++ Pielęgnacja małych ssaków
++++ Zdrowie <<purple5>>
+++++ Witaminy dla małych ssaków <<purple5>>
+++++ Podkłady <<purple5>>
+++++ Pielęgnacja małych ssaków <<purple5>>
 
 
 
