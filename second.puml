@@ -1,8 +1,19 @@
 @startwbs menu
 
-* Sklep zoologiczny
+<style>
+    .gray1{
+        BackgroundColor #BFC9CA
+    }
+    .gray2{
+        BackgroundColor #D5DBDB
+    }
 
-++ Psy
+</style>
+    
+
+* **Sklep zoologiczny** <<gray1>>
+
+++ **Psy** <<gray2>>
 ***:Karma
 \t- Karma mokra
 \t- Karma sucha
@@ -47,7 +58,7 @@
 \t- Budy
 \t- Tabliczki ostrzegawcze;
 
--- Koty
+-- **Koty** <<gray2>>
 ***:Karma
 \t- Karma mokra
 \t- Karma sucha
@@ -95,7 +106,7 @@
 
 
 
-++ Małe ssaki
+++ **Małe ssaki**<<gray2>>
 
 ***:Karmy
 \t- Karma dla chomika
@@ -118,40 +129,40 @@
 \t- Podkłady
 \t- Pielęgnacja małych ssaków;
 
--- Promocje
+-- **Promocje**<<gray2>>
 
-** Moje Konto
+** **Moje Konto**<<gray2>>
 *** Zaloguj się/ Zarejestruj się
 *** Lista życzeń
 *** Koszyk
 *** Zamówienia
 
-** Kontakt <<mintGreen>>
+** **Kontakt** <<gray2>>
 *** Znajdz Sklep
 *** Formularz kontaktowy
 *** Telefoniczny
 *** Mailowy
 
-** Pomoc <<mintGreen>>
+** **Pomoc** <<gray2>>
 *** Dostawa
 *** Wymiana i zwroty
 *** Płatności
 *** Zamówienia online
 
-** Polityka <<mintGreen>>
+** **Polityka** <<gray2>>
 *** Regulamin
 *** Polityka prywatności
 *** Polityka cookies
 
-** Newsletter <<mintGreen>>
+** **Newsletter** <<gray2>>
 
-** 0 nas <<mintGreen>>
+** **0 nas** <<gray2>>
 *** Działalność
 *** Zespół
 *** Sklepy stacjonarne 
 
 
-** Poradnik <<oliveGreen>>
+** **Poradnik** <<gray2>>
 *** Akcesoria
 *** Porady
 *** Rasy
