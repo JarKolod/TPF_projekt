@@ -54,8 +54,47 @@ mindmapDiagram {
   .purple5 {
     BackgroundColor #ead3f9
   }
-  .yellow {
-    BackgroundColor LightYellow
+  .yellow1 {
+    BackgroundColor #F1C40F
+  }
+  .yellow2 {
+    BackgroundColor #F4D03F
+  }
+  .turquoise1 {
+    BackgroundColor #1ABC9C
+  }
+  .turquoise2 {
+    BackgroundColor #48C9B0
+  }
+  .lightblue1 {
+    BackgroundColor #5DADE2
+  }
+  .lightblue2 {
+    BackgroundColor #85C1E9
+  }
+  .orange1 {
+    BackgroundColor #F39C12
+  }
+  .orange2 {
+    BackgroundColor #F5B041
+  }
+  .orange3{
+    BackgroundColor #F8C471 
+  }
+  .orange4{
+    BackgroundColor #FAD7A0 
+  }
+  .brownred1 {
+    BackgroundColor #DC7633
+  }
+  .brownred2 {
+    BackgroundColor #E59866
+  }
+  .coralred1 {
+    BackgroundColor #EC7063
+  }
+  .coralred2 {
+    BackgroundColor #F1948A
   }
   .slateGrey {
       BackgroundColor LightSlateGray
@@ -185,42 +224,42 @@ mindmapDiagram {
 
 
 
--- Moje Konto <<skyBlue>>
---- Koszyk
---- Zamówienia
---- Lista życzeń
+-- Moje Konto <<yellow1>>
+--- Koszyk  <<yellow2>>
+--- Zamówienia <<yellow2>>
+--- Lista życzeń <<yellow2>>
 
--- Kontakt <<mintGreen>>
---- Znajdz Sklep
---- Formularz kontaktowy
---- Telefoniczny
---- Mailowy
+-- Kontakt <<coralred1>>
+--- Znajdz Sklep <<coralred2>>
+--- Formularz kontaktowy <<coralred2>>
+--- Telefoniczny <<coralred2>>
+--- Mailowy <<coralred2>>
 
--- Pomoc <<mintGreen>>
---- Dostawa
---- Wymiana i zwroty
---- Płatności
---- Zamówienia online
+-- Pomoc <<brownred1>>
+--- Dostawa <<brownred2>>
+--- Wymiana i zwroty <<brownred2>>
+--- Płatności <<brownred2>>
+--- Zamówienia online <<brownred2>>
 
--- Polityka <<mintGreen>>
---- Regulamin
---- Polityka prywatności
---- Polityka cookies
+-- Polityka <<lightblue1>>
+--- Regulamin <<lightblue2>>
+--- Polityka prywatności <<lightblue2>>
+--- Polityka cookies <<lightblue2>>
 
 -- Newsletter <<mintGreen>>
 
--- 0 nas <<mintGreen>>
---- Działalność
---- Zespół
---- Sklepy stacjonarne 
+-- 0 nas <<orange3>>
+--- Działalność <<orange4>>
+--- Zespół <<orange4>>
+--- Sklepy stacjonarne  <<orange4>>
 
 
--- Poradnik <<oliveGreen>>
---- Akcesoria
---- Porady
---- Rasy
---- Zdrowie
---- Żywienie
+-- Poradnik <<orange1>>
+--- Akcesoria  <<orange2>>
+--- Porady <<orange2>>
+--- Rasy <<orange2>>
+--- Zdrowie <<orange2>>
+--- Żywienie <<orange2>>
 
 
 
